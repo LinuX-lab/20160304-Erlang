@@ -1,0 +1,14 @@
+.rebar/
+.erlang.mk/
+_rel/
+deps/
+doc/
+ebin/
+
+relx
+
+*.d
+*.beam
+*.app
+*.plt
+*~
